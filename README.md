@@ -2,6 +2,8 @@
 
 Notes from class
 
+[Edit me](https://github.com/ccs-1l-f20/ccs-1l-f20.github.io/edit/main/README.md)
+
 # Thursday 10/01
 
 * Welcome
