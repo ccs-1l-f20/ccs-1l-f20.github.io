@@ -5,6 +5,17 @@ Notes from class
 * [Edit me](https://github.com/ccs-1l-f20/ccs-1l-f20.github.io/edit/main/README.md)  
 * [See me on GitHub](https://github.com/ccs-1l-f20/ccs-1l-f20.github.io/blob/main/README.md) 
 
+# Tuesday 10/06
+
+## Status update on project plans
+
+* Aditya: Course Planning, iOS Swift
+* Anmol: NLP model for jobs.   Python/Flask.
+* Devin: Webapp for Select a programming language examples of code from public github repos.   Flask
+* 
+
+
+
 # Thursday 10/01
 
 * Welcome
