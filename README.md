@@ -19,7 +19,11 @@ Notes from class
     - Need: some heuristic to line up the text and the speech, and to remove extraneous speech (stuff that's not in the text.)
   - Instead: consider the corpus voxforge
   - Approx diff to know how to line up a Libravox recording...
-
+* Josiah: Board Game Simulator: platform "Blazor"?  C# based backend. 
+* Luke: Desktop application to configure keys and shortcuts with a GUI for Windows
+* Michael: Sound Software
+  - Audio for C++ 23 or 26 (Mac)
+  - Coreaudio (stdaudio that wraps coreaudio)
 
 
 # Thursday 10/01
