@@ -12,7 +12,13 @@ Notes from class
 * Aditya: Course Planning, iOS Swift
 * Anmol: NLP model for jobs.   Python/Flask.
 * Devin: Webapp for Select a programming language examples of code from public github repos.   Flask
-* 
+* Geordie: build or improve an existing open source Speech-To-Text software pkg
+  - learning towards making one from scratch
+  - with Libravox (public domain)
+    - The extra stuff at the beginning and the end of Libravox might be a problem
+    - Need: some heuristic to line up the text and the speech, and to remove extraneous speech (stuff that's not in the text.)
+  - Instead: consider the corpus voxforge
+  - Approx diff to know how to line up a Libravox recording...
 
 
 
