@@ -5,6 +5,16 @@ Notes from class
 * [Edit me](https://github.com/ccs-1l-f20/ccs-1l-f20.github.io/edit/main/README.md)  
 * [See me on GitHub](https://github.com/ccs-1l-f20/ccs-1l-f20.github.io/blob/main/README.md) 
 
+# Thursday 10/08
+
+* Aditya: Mac, Course Planning, iOS Swift
+* Anmol: Windows, ,NLP model for jobs.   Python/Flask.
+* Devin: MacOS, Webapp for Select a programming language examples of code from public github repos.   Flask
+* Geordie: build or improve an existing open source Speech-To-Text software pkg
+* Josiah: Windows, Board Game Simulator: platform "Blazor"?  C# based backend. 
+* Luke: Desktop application to configure keys and shortcuts with a GUI for Windows
+* Michael: Sound Software, Audio for C++ 23 or 26 (Mac)
+  
 # Tuesday 10/06
 
 ## Status update on project plans
