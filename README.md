@@ -36,7 +36,7 @@ Notes from class
   - Ran on terminal and got output from RestFul API
   - On Swift, created a Restful API for getting Covid Data, to practice API requests
   - some demo code for the UCSB Courses API: <https://github.com/ucsb-cs56-w20/ucsb-courses-search>
-  - 
+  - We got Swift code reading the UCSB courses data!
 * Anmol: Windows, NLP model for jobs.   Python/Flask.
   - Uploaded SQLLite DBs to GitHub
   - Added to the README, plus Google Sheets link
@@ -45,6 +45,7 @@ Notes from class
     - classification... naive Bayes and sentiment classification, etc.
     - At some point, connect you to William Wang, Xifeng Yan, who are two of our local NLP experts
       (Computational Linguistics).
+  - Goal for Tuesday: demo of doing some NLP on some data
 * Geordie: Linux/Windows, but all programming on Linux, build a new open source Speech-To-Text software pkg
   - Got some packages: SQL db, testing it out with dedicated client
   - Some example tables, dbs
