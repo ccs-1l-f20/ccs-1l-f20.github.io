@@ -9,10 +9,10 @@ Notes from class
 
 * Aditya: Mac, Course Planning, iOS Swift
 * Anmol: Windows, ,NLP model for jobs.   Python/Flask.
-* Devin: MacOS, Webapp for Select a programming language examples of code from public github repos.   Flask
-* Geordie: build or improve an existing open source Speech-To-Text software pkg
+* Devin: Mac, Webapp for Select a programming language examples of code from public github repos.   Flask
+* Geordie: Linux/Windows, but all programming on Linux, build or improve an existing open source Speech-To-Text software pkg
 * Josiah: Windows, Board Game Simulator: platform "Blazor"?  C# based backend. 
-* Luke: Desktop application to configure keys and shortcuts with a GUI for Windows
+* Luke: Windows, Desktop application to configure keys and shortcuts with a GUI for Windows
 * Michael: Sound Software, Audio for C++ 23 or 26 (Mac)
   
 # Tuesday 10/06
