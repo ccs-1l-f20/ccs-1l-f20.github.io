@@ -12,16 +12,59 @@ Notes from class
   - GitHub mostly used for accessing your own repos.
   - Not so sure about accessing public repos from all over the place
   So: NEW PROJECT
-  - A think like Word Press for creating your own website
+  - A thing like Word Press for creating your own website
   - logins, who has access to your website, calendar, using a db and an API
+  - Content Management System (CMS)
+    - Category for things like Wordpress, Joomla, Drupal <--open source, SquareSpace (commerical)
   - backend in JavaScript now
   - frontend React.
+  Some suggestions:
+  - Would it be worthwhile to spend a little time familiarizing yourself with Wordpress,
+    Drupal just to get a sense of what systems like that do?
+  - Mostly: the pain points...
+  - Code vs. WYSIWYG editing... leaning towards WYSIWYG... 
+  - <https://ckeditor.com/>
+  - Consider Heroku: use Postgres 
+  - Consider: node + express + react...
+  - Consider: next.js: 
+  - Consider: Auth0 for the authorization... have people login
+    - Delegate logins to Google, GitHub, Facebook, Twitter... (auth0.com)
+  - Documentation at https://ucsb-cs48.github.io website... 
 * Aditya: Mac, Course Planning, iOS Swift
-* Anmol: Windows, ,NLP model for jobs.   Python/Flask.
-* Geordie: Linux/Windows, but all programming on Linux, build or improve an existing open source Speech-To-Text software pkg
+  - Got key, and it worked, and got the email to get own key
+  - Ran on terminal and got output from RestFul API
+  - On Swift, created a Restful API for getting Covid Data, to practice API requests
+  - Remind Phill to send Aditya link to some demo code for the UCSB Courses API
+* Anmol: Windows, NLP model for jobs.   Python/Flask.
+  - Uploaded SQLLite DBs to GitHub
+  - Added to the README, plus Google Sheets link
+  - Let's discuss how to handle secrets/credentials with configuration files
+  - Jurafsky text... some chapters that may be useful
+    - classification... naive Bayes and sentiment classification, etc.
+    - At some point, connect you to William Wang, Xifeng Yan, who are two of our local NLP experts
+      (Computational Linguistics).
+* Geordie: Linux/Windows, but all programming on Linux, build a new open source Speech-To-Text software pkg
+  - Got some packages: SQL db, testing it out with dedicated client
+  - Some example tables, dbs
+  - Issues connecting SQL and C++ ...
+  - Need to learn classes in C++, and probably STL (Standard Template Library)
+  - Follow up with Jurafsky text
 * Josiah: Windows, Board Game Simulator: platform "Blazor"?  C# based backend. 
+  - From old code, have room system, able to move stuff around...  
+  - All in Blazor server, so refactor into Blazor web assembly
+  - Still need some more refactoring
+  - Can move things around on screen, but others in the same "room" don't see the changes
+  - May not be the most secure solution, but it works
 * Luke: Windows, Desktop application to configure keys and shortcuts with a GUI for Windows
-* Michael: Sound Software, Audio for C++ 23 or 26 (Mac)
+  - Reading up on running autohotkey scripts from Java and creating GUIs...
+* Michael: Mac, Sound Software, Audio for C++ 23 or 26
+  - got the examples to compile, and a test script
+  - made own makefile rather than using CMake
+    - it looks nicer
+    - but it won't necessariy be portable?
+    - But as it turns out, the implementation is Mac only as this point anyway...
+  - May need to read about std::atomic because there may be multiple threads.
+  - May need to read up on threads.
   
 # Tuesday 10/06
 
