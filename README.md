@@ -7,9 +7,17 @@ Notes from class
 
 # Thursday 10/08
 
+
+* Devin: Mac, Webapp for Select a programming language examples of code from public github repos.   Flask
+  - GitHub mostly used for accessing your own repos.
+  - Not so sure about accessing public repos from all over the place
+  So: NEW PROJECT
+  - A think like Word Press for creating your own website
+  - logins, who has access to your website, calendar, using a db and an API
+  - backend in JavaScript now
+  - frontend React.
 * Aditya: Mac, Course Planning, iOS Swift
 * Anmol: Windows, ,NLP model for jobs.   Python/Flask.
-* Devin: Mac, Webapp for Select a programming language examples of code from public github repos.   Flask
 * Geordie: Linux/Windows, but all programming on Linux, build or improve an existing open source Speech-To-Text software pkg
 * Josiah: Windows, Board Game Simulator: platform "Blazor"?  C# based backend. 
 * Luke: Windows, Desktop application to configure keys and shortcuts with a GUI for Windows
