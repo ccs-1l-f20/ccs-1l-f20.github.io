@@ -30,11 +30,13 @@ Notes from class
   - Consider: Auth0 for the authorization... have people login
     - Delegate logins to Google, GitHub, Facebook, Twitter... (auth0.com)
   - Documentation at https://ucsb-cs48.github.io website... 
+  - Goal: Hello World demo on Tuesday
 * Aditya: Mac, Course Planning, iOS Swift
   - Got key, and it worked, and got the email to get own key
   - Ran on terminal and got output from RestFul API
   - On Swift, created a Restful API for getting Covid Data, to practice API requests
-  - Remind Phill to send Aditya link to some demo code for the UCSB Courses API
+  - some demo code for the UCSB Courses API: <https://github.com/ucsb-cs56-w20/ucsb-courses-search>
+  - 
 * Anmol: Windows, NLP model for jobs.   Python/Flask.
   - Uploaded SQLLite DBs to GitHub
   - Added to the README, plus Google Sheets link
