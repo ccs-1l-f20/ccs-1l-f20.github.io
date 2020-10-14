@@ -8,20 +8,48 @@ Notes from class
 
 # Tuesday 10/13
 
-* Michael: Mac, Sound Software, Audio for C++ 23 or 26
-
 * Luke: Windows, Desktop application to configure keys and shortcuts with a GUI for Windows
-
+  * Using Java, made a program that can create new scripts
+  * Figuring out why other button doesn't work
+  * Demo... 
+  
 * Josiah: Windows, Board Game Simulator: platform "Blazor"?  C# based backend. 
-
+  * More refactoring
+  * Websockets, client to server
+  * client to server to a different client?  How to go about this?
+  * have a demo for tonight
+  * adding in chess pieces with transparency... checking if a pixel is transparent.
+  
+* Michael: Mac, Sound Software, Audio for C++ 23 or 26
+  * Able to make sounds..
+  * No user input yet
+  * GUI... linking statically
+  * Their demos compile, but mine don't yet...
+  * Try a sound demo on Thursday...
+  
 * Geordie: Linux/Windows, but all programming on Linux, build a new open source Speech-To-Text software pkg
+  * SQL API working...
+  * Can query tables / etc. from C++ code
+  * Made a few prototype files...  Levenshtein distance measure of how close one sequence is to another insertions/delections/replacements to change one to the other ...
+  
 
-* Devin: Mac, Webapp for Select a programming language examples of code from public github repos.   Flask
+* Devin: Mac, A thing like Word Press for creating your own website.  backend in JavaScript now
+  - frontend React.
+  - a minimal API running locally 
+  - a little webapp, hello world demo
+  - React Router
+  - demo
 
 * Anmol: Windows, NLP model for jobs.   Python/Flask.
+  - Fixed credentials
+  - Tried out machine learning model with NLP
+  - Some issue with Pandas and shape of the array
+  - Deep learning model for NLP
+  - Classification: This is a job title, and this is not a job title...
 
 * Aditya: Mac, Course Planning, iOS Swift
   
+ 
 
 
 
