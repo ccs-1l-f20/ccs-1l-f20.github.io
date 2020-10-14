@@ -48,6 +48,8 @@ Notes from class
   - Classification: This is a job title, and this is not a job title...
 
 * Aditya: Mac, Course Planning, iOS Swift
+  - parsing json in Swift
+  - demo.. 
   
  
 
