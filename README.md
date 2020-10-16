@@ -5,6 +5,19 @@ Notes from class
 * [Edit me](https://github.com/ccs-1l-f20/ccs-1l-f20.github.io/edit/main/README.md)  
 * [See me on GitHub](https://github.com/ccs-1l-f20/ccs-1l-f20.github.io/blob/main/README.md) 
 
+# Thursday 10/15
+
+* Luke: Windows, Desktop application to configure keys and shortcuts with a GUI for Windows
+* Josiah: Windows, Board Game Simulator: platform "Blazor"?  C# based backend. 
+* Michael: Mac, Sound Software, Audio for C++ 23 or 26
+* Geordie: Linux/Windows, but all programming on Linux, build a new open source Speech-To-Text software pkg
+  * Found: https://github.com/clab/dynet
+  * For next week: learning the jargon
+* Devin: Mac, A thing like Word Press for creating your own website.  backend in JavaScript now
+* Anmol: Windows, NLP model for jobs.   Python/Flask.
+* Aditya: Mac, Course Planning, iOS Swift
+
+
 
 # Tuesday 10/13
 
